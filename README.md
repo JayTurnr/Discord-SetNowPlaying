@@ -6,7 +6,6 @@ This is a simple command line tool to set the now playing status of your bot.
 
 * Quickly set the now playing via command line
 * Quick, simple and easy
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
